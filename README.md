@@ -10,3 +10,4 @@ Questionamentos principais:
 
 •	 É possível que o usuário saiba o quanto está gastando e consiga controlar seu uso para que não tenha surpresas no fim do mês com 
 a conta?
+import pandas as pd
