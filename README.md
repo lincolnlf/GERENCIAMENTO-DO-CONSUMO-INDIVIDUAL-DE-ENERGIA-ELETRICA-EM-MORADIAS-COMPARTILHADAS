@@ -11,3 +11,9 @@ Questionamentos principais:
 •	 É possível que o usuário saiba o quanto está gastando e consiga controlar seu uso para que não tenha surpresas no fim do mês com 
 a conta?
 
+
+Precisão
+
+O sistema trabalha com foco na consolidação da medição do consumo de energia elétrica. A ideia é que o usuário tenha acesso ao valor em reais do consumo da própria casa, de forma que cada usuário tenha em mãos o valor exato a ser pago.
+
+
